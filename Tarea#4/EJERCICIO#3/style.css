@@ -1,0 +1,39 @@
+/* Estilos para el cuerpo del documento */
+body {
+    color: #00F; /* Color del texto */
+    background-color: #CFC; /* Color de fondo */
+    font-family: Georgia, Cambria, serif; /* Familia de fuentes */
+    font-size: 16px; /* Tamaño de fuente */
+}
+
+/* Estilos para los encabezados de nivel 1 */
+h1 {
+    color: #F00; /* Color del texto */
+    font-family: Verdana, Calibri, sans-serif; /* Familia de fuentes */
+    font-size: 32px; /* Tamaño de fuente */
+}
+
+/* Estilos para los encabezados de nivel 2 */
+h2 {
+    color: #A00; /* Color del texto */
+    font-family: Verdana, Calibri, sans-serif; /* Familia de fuentes */
+    font-size: 24px; /* Tamaño de fuente */
+}
+
+/* Estilos para elementos de tipo span */
+span {
+    color: #060; /* Color del texto */
+}
+
+/* Estilos para elementos de tipo strong */
+strong {
+    font-size: 20px; /* Tamaño de fuente */
+    font-weight: bold; /* Negrita */
+}
+
+/* Estilos para elementos de tipo em (énfasis) */
+em {
+    color: #FFF; /* Color del texto */
+    background-color: #000; /* Color de fondo */
+    font-style: italic; /* Cursiva */
+}
